@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Julitaspostres": 5
+  },
+  "models": {
+    "Julitaspostres": {
+      "1": "{\"nomPostre\":\"Cupcakes\",\"precio\":10,\"cantidad\":10,\"descripcion\":\"Cupcakes de Vainilla que puedes decorar a tu gusto\",\"additionalProp1\":{},\"id\":1}",
+      "2": "{\"nomPostre\":\"Brownie Volcan\",\"precio\":15,\"cantidad\":10,\"descripcion\":\"Brownie de Chocolate con bola de nieve de vainilla\",\"id\":2}",
+      "3": "{\"nomPostre\":\"Cheesse Cake\",\"precio\":25,\"cantidad\":12,\"descripcion\":\"Rebanada de Cheese cake con cubierta a tu gusto (mermelada, cajeta, Chocolate)\",\"additionalProp1\":{},\"id\":3}",
+      "4": "{\"nomPostre\":\"Galletas Chispas\",\"precio\":5,\"cantidad\":20,\"descripcion\":\"Galletas de Chispas de Chocolate con relleno de nutella\",\"additionalProp1\":{},\"id\":4}"
+    }
+  }
+}
